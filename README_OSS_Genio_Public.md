@@ -175,7 +175,7 @@ PRs welcome. Please include:
 
 - General inquiries / partnership: brian@hewesguyen.com  
 - Security: brian@hewesguyen.com  
-- Enterprise pilots: brian@hewesguyen.com
+- Enterprise pilots: jerry@hewesguyen.com
 
 ---
 
